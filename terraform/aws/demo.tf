@@ -6,9 +6,7 @@ provider "aws" {
 resource "aws_s3_bucket" "public_bucket" {
   bucket = "vulnerable-public-bucket"
   acl    = "public-read"   
-}  
-
-
+}
 
 resource "aws_s3_bucket_policy" "public_policy" {
   bucket = aws_s3_bucket.public_bucket.id
