@@ -46,7 +46,7 @@ output "exposed_secret_key" {
 # Security Group with Open Access
 resource "aws_security_group" "insecure_sg" {
   name        = "insecure-sg"
-  description = "Allows unrestricted inbound access"
+  description = "Allows unrestricted inboundaccess"
 
   ingress {
     from_port   = 0

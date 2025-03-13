@@ -11,7 +11,7 @@ RUN apt-get update && apt-get install -y \
 RUN curl -fsSL https://github.com/moby/buildkit/releases/download/v0.12.4/buildkit-v0.12.4.linux-amd64.tar.gz | tar -xz -C /usr/local/bin/
 
 
-RUN mkdir /app && echo "FROM scratch" > /app/Dockerfile
+RUN mkdir /app && echo "FROM scratch!" > /app/Dockerfile
 
 
 EXPOSE 80 443
