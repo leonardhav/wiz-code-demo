@@ -71,7 +71,7 @@ resource "aws_db_instance" "vulnerable_rds" {
   engine               = "mysql"
   engine_version       = "5.7" 
   instance_class       = "db.t2.micro"
-  name                 = "mydb"
+  name                 = "mydb2"
   username             = "admin"
   password             = "Password123!" # Weak password
   parameter_group_name = "default.mysql5.7"
