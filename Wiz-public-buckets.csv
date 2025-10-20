@@ -1,0 +1,22 @@
+bucket_name,account_name,account_id,is_public,risk_score,content_size_bytes,data_state,sensitive_data_detected
+wondrous-pail-of-holes-number-2,gilbert-replication-connector,361769587441,true,53,2374670414,ACTIVE,true
+51590-acl,ridwan-playground-connector (AWS),637423410768,true,53,446866569,ACTIVE,true
+34127-tf-state-bucket,ridwan-playground-connector (AWS),637423410768,true,68,28855156,ACTIVE,true
+wiz-mongo-dump,Ifeanyi,903886142996,true,53,8460935,ACTIVE,true
+vvovva.com,Marek Kuczynski,517266833056,true,38,7610207,STALE,true
+1337chart-app-bucket,sandbox-temponly,360005742621,true,34,34326819,ACTIVE,true
+etimu.com,Ifeanyi,903886142996,true,38,1189635,STALE,true
+aws-cloudtrail-logs-984186218765-1e7f137d-14,Binh-Demo-Connector,984186218765,true,34,298054353,ACTIVE,true
+my-exposed-bucket,ofer david_AWS_sandbox,450683809808,true,49,1340367752,STALE,true
+tomfsandboxbucket,backend-dev-wiz,536254709298,true,51,1394612,STALE,true
+lyl-bucket,yunlong_test_connector,803097038206,true,68,6726,STALE,true
+raultestpublicbucket,raul-rey-aws-byon,208262058028,true,53,858,STALE,true
+z80425,joel-wiz-sandbox-aws,905418230037,true,53,2998,ACTIVE,true
+my-s3-bucket-example-thuan-wiz,thuan-wiz-lab,891376972353,true,53,224240,ACTIVE,true
+helper.jamesgrow.dev,James,275586276491,true,0,104603741,ACTIVE,false
+usgeo.jamesgrow.dev,James,275586276491,true,0,48811426,ACTIVE,false
+trantor.growfam.io,James,275586276491,true,0,4902125,ACTIVE,false
+8a50721675df344c32d985bb7862a77b,James,275586276491,true,0,7885742,ACTIVE,false
+cmfuzg9tlxb1ymxpyy1pbwfnzxm,James,275586276491,true,0,1273330,ACTIVE,false
+public.growfam.io,James,275586276491,true,0,27724,ACTIVE,false
+
